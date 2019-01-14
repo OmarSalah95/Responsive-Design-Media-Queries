@@ -346,16 +346,16 @@ footer {
 	margin-left: 15px;
 	padding: 5px;
 }
-@media (max-width:500px){
-    .closing img{
-        display: none;
-    }
 
-    .facts{
-        width: 100%;
-        padding: 1rem;
-    }
-}
+@media (max-width:800px){
+  .closing img{
+      display: none;
+  }
+
+  .facts{
+      width: 100%;
+      padding: 1rem;
+  }
 
 footer{
     text-align: center;
